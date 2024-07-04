@@ -1,0 +1,11 @@
+color....
+ash : #eef0f3
+n.blue : #0f2656
+success: #00baff
+yellowgreen
+red : #f15767
+
+backgroun color: 
+ pink : #fdebed
+ green : #ebf9f4
+ yellow : #fff7e8

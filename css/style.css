@@ -1,0 +1,117 @@
+*{
+    scroll-behavior: smooth;
+}
+/* body common start */
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0f2656;
+}
+/* body common end */
+/* header start */
+header{
+    padding: 5px 0;
+    box-shadow: 0px 3px 5px #eef0f3;
+}
+.logo img{}
+.custom_menu ul li a{
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0f2656;
+    transition: all 1s ease-in-out;
+}
+.custom_menu ul li:hover a{
+    color: #00baff;
+}
+.navbar-toggler:focus{
+    border: 1px solid #00baff;
+    box-shadow: none;
+}
+/* header end */
+/* banner start */
+.banner{}
+.text_banner{
+    padding: 0 215px 0 215px;
+}
+.text_banner h1{
+    margin-bottom: 30px;
+    font-size: 45px;
+    font-weight: 700;
+    color: #0f2656;
+}
+.text_banner h2{
+    margin-bottom: 40px;
+    font-size: 45px;
+    font-weight: 700;
+    color: #00baff;
+}
+/* banner end */
+/* success start */
+.success{
+    padding: 50px 0;
+}
+.success_3k{
+    padding-right: 5px;
+    text-align: right;
+    padding-left: 250px;
+}
+.success_3k h2{
+    font-size: 45px;
+    font-weight: 700;
+    color: #f15767;
+}
+.success_3k p{
+    
+    line-height: 25px;
+    letter-spacing: .5 px;
+}
+.success_succ h2{
+    padding-left: 5px;
+    font-size: 45px;
+    font-weight: 700;
+    padding-right: 135px;
+}
+/* success end */
+/* feature start */
+.feature{
+    padding-bottom: 50px;
+}
+.comm_f{
+    margin-right: 10px;
+    padding: 10px 20px;
+}
+.f_1{
+    background-color: #fdebed;
+}
+.comm_f h2{
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #0f2656;
+}
+.f_2{
+    background-color: #ebf9f4;
+}
+.f_3{
+    background-color: #fff7e8;
+}
+/* feature end */
+/* footer start */
+footer{
+    padding: 30px 0;
+    background-color: #1861ff;
+}
+.footer_t p{
+    color: #d0d0d0;
+    letter-spacing: 1px;
+}
+.footer_t a{
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #fff;
+}
+/* footer end*/
